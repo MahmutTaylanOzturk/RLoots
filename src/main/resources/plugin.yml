@@ -1,0 +1,7 @@
+name: RLoots
+version: 1.0.0
+main: me.taylan.RLoots
+api-version: 1.18
+authors: [ Taylan ]
+description: lootbox plugin for your server.
+

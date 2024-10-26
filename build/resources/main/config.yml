@@ -1,0 +1,8 @@
+lootbox-open-delay: 3
+
+lootbox-opening-sound: ENTITY_PLAYER_LEVELUP
+lootbox-opening-sound-volume: 10
+lootbox-opening-sound-pitch: 1
+
+lootbox-open-particle: FIREWORK
+lootbox-loot-particle: EXPLOSION
